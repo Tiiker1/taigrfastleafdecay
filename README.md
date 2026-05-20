@@ -1,6 +1,6 @@
 # FastLeafDecay
 
-A Paper plugin that instantly decays leaves when the **last** supporting log of a tree is broken. Leaves from nearby intact trees are not affected.
+A Paper plugin that instantly decays leaves when the **last** supporting log of a tree is broken. Leaves from nearby intact trees are not affected.<br>Planned to upload sourcecode later.
 
 ## Features
 
